@@ -1,0 +1,176 @@
+44,133
+xx,65,65
+Washington D.C.,38.8951,-77.0364
+Mexico City,19.4326,-99.1332
+Ottawa,45.4215,-75.6972
+Brasília,-15.7939,-47.8828
+Riyadh,24.7136,46.6753
+Cairo,30.0333,31.2333
+Tripoli,32.8872,13.1913
+Algiers,36.7372,3.0869
+Kinshasa,-4.4419,15.2663
+Khartoum,15.5007,32.5599
+Pretoria,-25.7479,28.2293
+Nouakchott,18.0735,-15.9582
+Baghdad,33.3152,44.3661
+Ankara,39.9334,32.8597
+Tehran,35.6892,51.3890
+Moscow,55.7558,37.6173
+Astana,51.1694,71.4491
+Beijing,39.9042,116.4074
+Canberra,-35.2809,149.1300
+Reykjavik,64.1355,-21.8954
+Madrid,40.4168,-3.7038
+Berlin,52.5200,13.4050
+Bucharest,44.4268,26.1025
+Helsinki,60.1699,24.9384
+New Delhi,28.6139,77.2090
+Antananarivo,-18.8792,47.5079
+Buenos Aires,-34.6037,-58.3816
+Sntigo,-33.4489,-70.6693
+Managua,12.1140,-86.2362
+Havana,23.1136,-82.3666
+Kyiv,50.4501,30.5234
+Muscat,23.5880,58.3829
+Jakarta,-6.2088,106.8456
+Kuala Lumpur,3.1390,101.6869
+Tokyo,35.6895,139.6917
+Wellington,-41.2865,174.7762
+Manila,14.5995,120.9842
+Naypyidaw,19.7633,96.0785
+Pyongyang,39.0392,125.7625
+Ulaanbaatar,47.8864,106.9057
+Mogadishu,2.0469,45.3182
+Niamey,13.5116,2.1254
+Dodoma,-6.1629,35.7516
+Washington D.C.,Mexico City
+Washington D.C.,Ottawa
+Mexico City,Havana
+Mexico City,Managua
+Ottawa,Brasília
+Brasília,Buenos Aires
+Brasília,Sntigo
+Riyadh,Cairo
+Riyadh,Muscat
+Cairo,Tripoli
+Cairo,Khartoum
+Tripoli,Algiers
+Algiers,Niamey
+Kinshasa,Dodoma
+Pretoria,Antananarivo
+Pretoria,Dodoma
+Nouakchott,Niamey
+Baghdad,Tehran
+Ankara,Moscow
+Tehran,Moscow
+Moscow,Astana
+Astana,Ulaanbaatar
+Beijing,Tokyo
+Beijing,Ulaanbaatar
+Canberra,Wellington
+Canberra,Jakarta
+Reykjavik,Madrid
+Reykjavik,Helsinki
+Madrid,Berlin
+Berlin,Bucharest
+Bucharest,Helsinki
+New Delhi,Beijing
+Antananarivo,Mogadishu
+Buenos Aires,Sntigo
+Sntigo,Buenos Aires
+Havana,Managua
+Jakarta,Kuala Lumpur
+Tokyo,Pyongyang
+Pyongyang,Ulaanbaatar
+Mogadishu,Dodoma
+Niamey,Dodoma
+Washington D.C.,Brasília
+Washington D.C.,New Delhi
+Mexico City,Washington D.C.
+Mexico City,New Delhi
+Ottawa,Mexico City
+Brasília,Mexico City
+Brasília,Ottawa
+Brasília,Havana
+Riyadh,New Delhi
+Cairo,New Delhi
+Tripoli,Riyadh
+Algiers,Tripoli
+Kinshasa,Algiers
+Khartoum,Kinshasa
+Pretoria,Kinshasa
+Nouakchott,Kinshasa
+Baghdad,Cairo
+Ankara,Baghdad
+Tehran,Baghdad
+Moscow,New Delhi
+Astana,Moscow
+Beijing,Astana
+Canberra,Beijing
+Reykjavik,Canberra
+Madrid,Canberra
+Berlin,Madrid
+Bucharest,Berlin
+Helsinki,Berlin
+New Delhi,Helsinki
+Antananarivo,New Delhi
+Buenos Aires,New Delhi
+Sntigo,New Delhi
+Managua,Sntigo
+Havana,New Delhi
+Kyiv,Havana
+Muscat,Kyiv
+Jakarta,Muscat
+Kuala Lumpur,Muscat
+Tokyo,Kuala Lumpur
+Wellington,Tokyo
+Manila,Wellington
+Naypyidaw,Manila
+Pyongyang,Naypyidaw
+Ulaanbaatar,Pyongyang
+Mogadishu,Ulaanbaatar
+Niamey,Mogadishu
+Dodoma,Niamey
+Washington D.C.,Dodoma
+Mexico City,Dodoma
+Ottawa,Dodoma
+Brasília,Dodoma
+Riyadh,Dodoma
+Cairo,Dodoma
+Tripoli,Dodoma
+Algiers,Dodoma
+Kinshasa,Dodoma
+Khartoum,Dodoma
+Pretoria,Dodoma
+Nouakchott,Dodoma
+Baghdad,Dodoma
+Ankara,Dodoma
+Tehran,Dodoma
+Moscow,Dodoma
+Astana,Dodoma
+Beijing,Dodoma
+Canberra,Dodoma
+Reykjavik,Dodoma
+Madrid,Dodoma
+Berlin,Dodoma
+Bucharest,Dodoma
+Helsinki,Dodoma
+New Delhi,Dodoma
+Antananarivo,Dodoma
+Buenos Aires,Dodoma
+Sntigo,Dodoma
+Managua,Dodoma
+Havana,Dodoma
+Kyiv,Dodoma
+Muscat,Dodoma
+Jakarta,Dodoma
+Kuala Lumpur,Dodoma
+Tokyo,Dodoma
+Wellington,Dodoma
+Manila,Dodoma
+Naypyidaw,Dodoma
+Pyongyang,Dodoma
+Ulaanbaatar,Dodoma
+Mogadishu,Dodoma
+Niamey,Dodoma
+xx,Madrid

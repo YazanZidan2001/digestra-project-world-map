@@ -1,0 +1,42 @@
+Washington D.C.,Mexico City
+Washington D.C.,Ottawa
+Mexico City,Havana
+Mexico City,Managua
+Ottawa,Brasília
+Brasília,Buenos Aires
+Brasília,Santiago
+Riyadh,Cairo
+Riyadh,Muscat
+Cairo,Tripoli
+Cairo,Khartoum
+Tripoli,Algiers
+Algiers,Niamey
+Kinshasa,Dodoma
+Pretoria,Antananarivo
+Pretoria,Dodoma
+Nouakchott,Niamey
+Baghdad,Tehran
+Baghdad,Amman
+Amman,Ankara
+Ankara,Moscow
+Tehran,Moscow
+Moscow,Astana
+Astana,Ulaanbaatar
+Beijing,Tokyo
+Beijing,Ulaanbaatar
+Canberra,Wellington
+Canberra,Jakarta
+Reykjavik,Madrid
+Reykjavik,Helsinki
+Madrid,Berlin
+Berlin,Bucharest
+Bucharest,Helsinki
+New Delhi,Beijing
+Antananarivo,Mogadishu
+Buenos Aires,Santiago
+Havana,Managua
+Jakarta,Kuala Lumpur
+Tokyo,Pyongyang
+Pyongyang,Ulaanbaatar
+Mogadishu,Dodoma
+Niamey,Dodoma
